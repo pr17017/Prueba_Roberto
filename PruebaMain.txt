@@ -1,2 +1,6 @@
 PR17017
+<<<<<<< HEAD
 Escritura de Prueba RamaPrueba1
+=======
+Escritura de Prueba Main
+>>>>>>> main
